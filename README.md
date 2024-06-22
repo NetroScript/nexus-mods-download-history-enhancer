@@ -75,7 +75,7 @@ The filters are applied automatically as you check or uncheck the checkboxes. Th
 
 As this is a userscript, it requires you to install a userscript manager to make use of this extension.
 
-There are many userscript managers available for all browsers, I myself use Tampermonkey and only tested this with Tampermonkey. Below you have a list with some (you need only one):
+There are many userscript managers available for all browsers, I myself use Violentmonkey and only tested this with Violentmonkey. Below you have a list with some (you need only one):
 
 * **Violentmonkey** ([Chrome](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/))
 * **Tampermonkey** ([Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/))
