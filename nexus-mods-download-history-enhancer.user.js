@@ -6,9 +6,11 @@
 // @match        https://www.nexusmods.com/*/users/myaccount?tab=download+history*
 // @downloadURL  https://github.com/NetroScript/nexus-mods-download-history-enhancer/raw/main/nexus-mods-download-history-enhancer.user.js
 // @updateURL    https://github.com/NetroScript/nexus-mods-download-history-enhancer/raw/main/nexus-mods-download-history-enhancer.meta.js
+// @supportURL   https://github.com/NetroScript/nexus-mods-download-history-enhancer/issues
 // @grant        none
 // @version      1.0.0
 // @author       NetroScript
+// @license      MIT
 // ==/UserScript==
 
 (function() {
