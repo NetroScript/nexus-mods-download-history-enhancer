@@ -4,8 +4,8 @@
 // @namespace    NetroScript
 // @match        https://www.nexusmods.com/users/myaccount?tab=download+history*
 // @match        https://www.nexusmods.com/*/users/myaccount?tab=download+history*
-// @downloadURL  https://github.com/NetroScript/nexus-mods-download-history-enhancer/raw/master/nexus-mods-download-history-enhancer.user.js
-// @updateURL    https://github.com/NetroScript/nexus-mods-download-history-enhancer/raw/master/nexus-mods-download-history-enhancer.meta.js
+// @downloadURL  https://github.com/NetroScript/nexus-mods-download-history-enhancer/raw/main/nexus-mods-download-history-enhancer.user.js
+// @updateURL    https://github.com/NetroScript/nexus-mods-download-history-enhancer/raw/main/nexus-mods-download-history-enhancer.meta.js
 // @grant        none
 // @version      1.0.0
 // @author       NetroScript

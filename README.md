@@ -48,6 +48,9 @@
 - **Toggle All Options:** Quickly select or deselect all categories for a game or globally using the "Toggle All" buttons.
 - **Collapsible Game Sections:** Each game section is collapsible, allowing you to expand or collapse categories for a cleaner view.
 
+### Video
+
+https://github.com/NetroScript/nexus-mods-download-history-enhancer/assets/18115780/6136947e-77c6-49a0-9beb-e97d0f9105a0
 
 ### How It Works
 
@@ -80,7 +83,7 @@ There are many userscript managers available for all browsers, I myself use Tamp
 
 After installing the userscript manager, you can just click the following link to be prompted to install the userscript:
 
-[nexus-mods-download-history-enhancer.user.js](https://github.com/NetroScript/nexus-mods-download-history-enhancer/raw/master/nexus-mods-download-history-enhancer.user.js)
+[nexus-mods-download-history-enhancer.user.js](https://github.com/NetroScript/nexus-mods-download-history-enhancer/raw/main/nexus-mods-download-history-enhancer.user.js)
 
 Alternatively, you could also just install it manually. For that follow the documentation of your userscript manager.
 
@@ -112,4 +115,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [issues-shield]: https://img.shields.io/github/issues/NetroScript/nexus-mods-download-history-enhancer.svg?style=for-the-badge
 [issues-url]: https://github.com/NetroScript/nexus-mods-download-history-enhancer/issues
 [license-shield]: https://img.shields.io/github/license/NetroScript/nexus-mods-download-history-enhancer.svg?style=for-the-badge
-[license-url]: https://github.com/NetroScript/nexus-mods-download-history-enhancer/blob/master/LICENSE
+[license-url]: https://github.com/NetroScript/nexus-mods-download-history-enhancer/blob/main/LICENSE
